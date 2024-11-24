@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
 <header>
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Hello%20Everyone&fontSize=60" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello%20Everyone&fontSize=60" />
+<div style="width:100%;height:0;padding-bottom:120%;position:relative;"><iframe src="https://giphy.com/embed/VOPK1BqsMEJRS" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/cat-hello-hey-VOPK1BqsMEJRS">via GIPHY</a></p>
 </header>
 </html>
 <!--
