@@ -2,8 +2,10 @@
 <html>
 <header>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello%20Everyone&fontSize=60" />
-<img src="https://giphy.com/gifs/cat-hello-hey-VOPK1BqsMEJRS.gif" />
 </header>
+<body>
+  <img src="https://giphy.com/gifs/cat-hello-hey-VOPK1BqsMEJRS.gif"/>
+</body>
 </html>
 <!--
 **sarvesh-pathak/sarvesh-pathak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
