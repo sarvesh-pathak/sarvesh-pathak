@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello%20Everyone&fontSize=60" />
 </header>
 <body>
-  <img src="https://giphy.com/gifs/cat-hello-hey-VOPK1BqsMEJRS.gif"/>
+  <img src="https://giphy.com/gifs/cat-hello-hey-VOPK1BqsMEJRS/giphy.gif"/>
 </body>
 </html>
 <!--
