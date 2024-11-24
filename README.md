@@ -2,7 +2,7 @@
 <html>
 <header>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello%20Everyone&fontSize=60" />
-<iframe src="https://giphy.com/embed/VOPK1BqsMEJRS" width="400" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-hello-hey-VOPK1BqsMEJRS">via GIPHY</a></p>
+<img src="https://giphy.com/gifs/cat-hello-hey-VOPK1BqsMEJRS.gif" />
 </header>
 </html>
 <!--
