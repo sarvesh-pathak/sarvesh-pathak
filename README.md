@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=wheat&height=300&section=header&text=Hello%20Everyone&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=#F5DEB3&height=300&section=header&text=Hello%20Everyone&fontSize=90)
 <!--
 **sarvesh-pathak/sarvesh-pathak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
