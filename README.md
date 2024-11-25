@@ -6,7 +6,7 @@
 <body>
 <p align="left">
 <img src="https://media.giphy.com/media/VOPK1BqsMEJRS/giphy.gif" alt="Cat saying hello" width="125" height="125" />
-<h2 style="color:#FF0000">Hi I am Sarvesh Pathak I am a.....</h2>
+<h2>Hi I am Sarvesh Pathak I am a.....</h2>
 A results-driven software engineer with experience in backend development, cloud computing, and machine learning. Proficient in Java and Python with hands-on expertise in building scalable applications, deploying microservices, and fine-tuning AI models. Recognized for innovation and problem-solving, including receiving an Innovation Award and securing top rankings in global hackathons. Adept at leveraging tools like Spring Boot,and AZURE to create high-performance, user-centric solutions. Passionate about learning and applying emerging technologies to optimize systems and drive efficiency.
 </p>
 </body>
@@ -57,7 +57,8 @@ name: Sarvesh Pathak
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="85" height="85" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="85" height="85" />
 <img src="https://github.com/user-attachments/assets/e3efa067-e344-400f-a544-6fb9cdfb06b3" width="85" height="85"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="85" height="85" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="85" height="85" />     
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="85" height="85"  />
 </p>
 </body>
 </header>
