@@ -35,7 +35,6 @@ name: Sarvesh Pathak
 <img src="https://capsule-render.vercel.app/api?type=Venom&color=auto&height=200&section=header&text=Skills&fontSize=60" />
 </header>
 </html>
-```
 
 <!DOCTYPE html>
 <html>
