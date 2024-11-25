@@ -5,7 +5,13 @@
 <img src="https://media.giphy.com/media/VOPK1BqsMEJRS/giphy.gif" alt="Cat saying hello" />
 </header>
 </html>
-```
+
+<!DOCTYPE html>
+<html>
+<header>
+<img src="https://capsule-render.vercel.app/api?type=Venom&color=auto&height=200&section=header&text=About%20Me&fontSize=60" />
+</header>
+</html>
 
 ```yaml
 name: Sarvesh Pathak
