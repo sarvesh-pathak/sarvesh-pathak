@@ -39,10 +39,10 @@ name: Sarvesh Pathak
 <!DOCTYPE html>
 <html>
 <header>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="85" height="85"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="85" height="85" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="85" height="85" />
-<img src="https://github.com/user-attachments/assets/e3efa067-e344-400f-a544-6fb9cdfb06b3" width="85" height="85"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="65" height="85"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="65" height="85" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="65" height="85" />
+<img src="https://github.com/user-attachments/assets/e3efa067-e344-400f-a544-6fb9cdfb06b3" width="65" height="85"/>
 
 </header>
 </html>
