@@ -63,7 +63,7 @@ v<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devico
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="85" height="85" />     
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="85" height="85"  />
 <img src="https://github.com/user-attachments/assets/957e8f6e-9eff-4a59-94a8-7bfdfd37ffe0" width="85" height="85"  />
-<i class="devicon-flask-original-wordmark" width="85" height="85"></i>
+<i class="devicon-flask-original-wordmark" ></i>
 </p>
 </body>
 </header>
