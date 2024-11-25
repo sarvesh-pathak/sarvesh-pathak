@@ -5,7 +5,30 @@
 <img src="https://media.giphy.com/media/VOPK1BqsMEJRS/giphy.gif" alt="Cat saying hello" />
 </header>
 <body>
+```yaml
+name: Sarvesh Pathak
+located_in: Bengaluru, India
+current_job: Software Engineer
+education:
+  [
+    "Bachelor's in Technology",
+  ]
+company: Volkswagen Group Technology Solution
 
+fields_of_interests:
+  [
+    "Web Development",
+    "Machine Learning"
+  ]
+skills:
+  [
+    Java,
+    Python,
+    LLMs,
+    SpringBoot
+  ]
+
+```
 </body>
 </html>
 <!--
