@@ -5,6 +5,9 @@
 <img src="https://media.giphy.com/media/VOPK1BqsMEJRS/giphy.gif" alt="Cat saying hello" />
 </header>
 <body>
+
+</body>
+</html>
 ```yaml
 name: Sarvesh Pathak
 located_in: Bengaluru, India
@@ -27,10 +30,7 @@ skills:
     LLMs,
     SpringBoot
   ]
-
-```
-</body>
-</html>
+ ```
 <!--
 **sarvesh-pathak/sarvesh-pathak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
