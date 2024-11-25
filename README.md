@@ -32,7 +32,7 @@ name: Sarvesh Pathak
 <!DOCTYPE html>
 <html>
 <header>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="75" height="75"/>
 </header>
 </html>
           
