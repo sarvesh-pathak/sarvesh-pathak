@@ -50,9 +50,6 @@ name: Sarvesh Pathak
 
 <!DOCTYPE html>
 <html>
-<header>   
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />          
-</header>
 <body>
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
@@ -63,7 +60,7 @@ name: Sarvesh Pathak
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="85" height="85" />     
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="85" height="85"  />
 <img src="https://github.com/user-attachments/assets/957e8f6e-9eff-4a59-94a8-7bfdfd37ffe0" width="85" height="85"  />
-<i class="devicon-flask-original-wordmark"></i>
+<img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" width="85" height="85"  />
 </p>
 </body>
 </header>
