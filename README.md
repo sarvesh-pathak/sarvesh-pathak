@@ -4,8 +4,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello!!!&fontSize=60&animation=fadeIn" />
 </header>
 <body>
+<h2>Here is a LeetCode Badge next to a cat saying Hi!!!</h2>
 <p align="left">
-Here is a LeetCode Badge next to a cat saying Hi!!!
 <img src="https://media.giphy.com/media/VOPK1BqsMEJRS/giphy.gif" alt="Cat saying hello" width="125" height="125" />
 &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;
 <img width="420" alt="Screenshot 2024-11-24 at 6 34 03 PM" src="https://github.com/user-attachments/assets/39d2a59a-262a-47ad-8340-08f14cba829c">
