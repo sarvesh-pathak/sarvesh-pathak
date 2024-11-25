@@ -29,30 +29,10 @@ name: Sarvesh Pathak
             SpringBoot
           ]
 ```
-<!--
-**sarvesh-pathak/sarvesh-pathak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-name: Sarvesh Pathak
-located_in: Bengaluru, India
-current_job: Software Engineer
-education:
-  [
-    "Bachelor's in Technology",
-  ]
-company: Volkswagen Group Technology Solution
-
-fields_of_interests:
-  [
-    "Web Development",
-    "Machine Learning"
-  ]
-skills:
-  [
-    Java,
-    Python,
-    LLMs,
-    SpringBoot
-  ]
--->
+<!DOCTYPE html>
+<html>
+<header>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+</header>
+</html>
+          
