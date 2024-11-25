@@ -6,7 +6,7 @@
 <body>
 <p align="left">
 Here is a LeetCode Badge next to a cat saying Hi!!!
-<img src="https://media.giphy.com/media/VOPK1BqsMEJRS/giphy.gif" alt="Cat saying hello" width="225" height="125" />
+<img src="https://media.giphy.com/media/VOPK1BqsMEJRS/giphy.gif" alt="Cat saying hello" width="125" height="125" />
 &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;
 <img width="420" alt="Screenshot 2024-11-24 at 6 34 03 PM" src="https://github.com/user-attachments/assets/39d2a59a-262a-47ad-8340-08f14cba829c">
 <h2>Hi I am Sarvesh Pathak I am a.....</h2>
