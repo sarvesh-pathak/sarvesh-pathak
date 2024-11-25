@@ -2,7 +2,7 @@
 <html>
 <header>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello!!!&fontSize=60&animation=fadeIn" />
-<img src="https://media.giphy.com/media/VOPK1BqsMEJRS/giphy.gif" alt="Cat saying hello" width="35" height="35" />
+<img src="https://media.giphy.com/media/VOPK1BqsMEJRS/giphy.gif" alt="Cat saying hello" width="95" height="95" />
 </header>
 </html>
 
