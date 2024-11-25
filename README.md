@@ -7,6 +7,7 @@
 <p align="left">
 <img src="https://media.giphy.com/media/VOPK1BqsMEJRS/giphy.gif" alt="Cat saying hello" width="125" height="125" />
 &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;
+Here is a LeetCode Badge next to a cat saying Hi!!!
 <img width="420" alt="Screenshot 2024-11-24 at 6 34 03 PM" src="https://github.com/user-attachments/assets/39d2a59a-262a-47ad-8340-08f14cba829c">
 <h2>Hi I am Sarvesh Pathak I am a.....</h2>
 A results-driven software engineer with experience in backend development, cloud computing, and machine learning. Proficient in Java and Python with hands-on expertise in building scalable applications, deploying microservices, and fine-tuning AI models. Recognized for innovation and problem-solving, including receiving an Innovation Award and securing top rankings in global hackathons. Adept at leveraging tools like Spring Boot,and AZURE to create high-performance, user-centric solutions. Passionate about learning and applying emerging technologies to optimize systems and drive efficiency.
