@@ -60,7 +60,7 @@ name: Sarvesh Pathak
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="85" height="85" />     
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="85" height="85"  />
 <img src="https://github.com/user-attachments/assets/957e8f6e-9eff-4a59-94a8-7bfdfd37ffe0" width="85" height="85"  />
-<img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" width="85" height="85" />
+<img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" width="85" height="85" style="background-color: greenyellow;"/>
 </p>
 </body>
 </header>
