@@ -1,3 +1,4 @@
+```html
 <!DOCTYPE html>
 <html>
 <header>
@@ -5,6 +6,7 @@
 <img src="https://media.giphy.com/media/VOPK1BqsMEJRS/giphy.gif" alt="Cat saying hello" />
 </header>
 </html>
+```
 ```yaml
 name: Sarvesh Pathak
         located_in: Bengaluru, India
