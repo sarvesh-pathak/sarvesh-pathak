@@ -2,7 +2,7 @@
 <html>
 <header>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello!!!&fontSize=60&animation=fadeIn" />
-<img src="https://media.giphy.com/media/VOPK1BqsMEJRS/giphy.gif" alt="Cat saying hello" />
+<img src="https://media.giphy.com/media/VOPK1BqsMEJRS/giphy.gif" alt="Cat saying hello" width="35" height="35" />
 </header>
 </html>
 
@@ -51,7 +51,7 @@ name: Sarvesh Pathak
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="85" height="85" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="85" height="85" />
 <img src="https://github.com/user-attachments/assets/e3efa067-e344-400f-a544-6fb9cdfb06b3" width="85" height="85"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="85" height="85" />
 </p>
 </body>
 </header>
