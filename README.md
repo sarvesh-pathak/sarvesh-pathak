@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html>
 <header >
-<p align="left">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello!!!&fontSize=60&animation=fadeIn" />
+</header>
+<body>
+<p align="left">
 <img src="https://media.giphy.com/media/VOPK1BqsMEJRS/giphy.gif" alt="Cat saying hello" width="95" height="95" />
 </p>
-</header>
+</body>
 </html>
 
 <!DOCTYPE html>
