@@ -1,4 +1,3 @@
-```html
 <!DOCTYPE html>
 <html>
 <header>
@@ -7,6 +6,7 @@
 </header>
 </html>
 ```
+
 ```yaml
 name: Sarvesh Pathak
         located_in: Bengaluru, India
