@@ -9,7 +9,7 @@
 <!DOCTYPE html>
 <html>
 <header>
-<img src="https://capsule-render.vercel.app/api?type=Venom&color=auto&height=500&section=header&text=About%20Me&fontSize=60" />
+<img src="https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=200&section=header&text=About%20Me&fontSize=60" />
 </header>
 </html>
 
