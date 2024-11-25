@@ -50,9 +50,9 @@ name: Sarvesh Pathak
 
 <!DOCTYPE html>
 <html>
-<body>
+<body  style="background-color: greenyellow;">
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left" style="background-color: greenyellow;">
+<p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="85" height="85"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="85" height="85" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="85" height="85" />
