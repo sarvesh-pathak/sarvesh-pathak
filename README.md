@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <header>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello%20Everyone&fontSize=60" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello%20Everyone&fontSize=60&animation=fadeIn" />
 <img src="https://media.giphy.com/media/VOPK1BqsMEJRS/giphy.gif" alt="Cat saying hello" />
 </header>
 </html>
@@ -32,7 +32,15 @@ name: Sarvesh Pathak
 <!DOCTYPE html>
 <html>
 <header>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="75" height="75"/>
+<img src="https://capsule-render.vercel.app/api?type=Venom&color=auto&height=200&section=header&text=Skills&fontSize=60" />
+</header>
+</html>
+```
+
+<!DOCTYPE html>
+<html>
+<header>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="85" height="85"/>
 </header>
 </html>
           
