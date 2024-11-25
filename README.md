@@ -5,7 +5,9 @@
 </header>
 <body>
 <p align="left">
-<img src="https://media.giphy.com/media/VOPK1BqsMEJRS/giphy.gif" alt="Cat saying hello" width="95" height="95" />
+<img src="https://media.giphy.com/media/VOPK1BqsMEJRS/giphy.gif" alt="Cat saying hello" width="125" height="125" />
+<h2>Hi I am Sarvesh Pathak I am a.....</h2>
+A results-driven software engineer with experience in backend development, cloud computing, and machine learning. Proficient in Java, Python, and C++, with hands-on expertise in building scalable applications, deploying microservices, and fine-tuning AI models. Recognized for innovation and problem-solving, including receiving an Innovation Award and securing top rankings in global hackathons. Adept at leveraging tools like Spring Boot, Kubernetes, and AWS to create high-performance, user-centric solutions. Passionate about learning and applying emerging technologies to optimize systems and drive efficiency.
 </p>
 </body>
 </html>
